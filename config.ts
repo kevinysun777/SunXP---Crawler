@@ -5,5 +5,5 @@ export const defaultConfig: Config = {
   match: "https://www.adobe.com/**",
   maxPagesToCrawl: 10000,
   outputFileName: "output.json",
-  maxTokens: 200000,
+  maxTokens: 1000,
 };
